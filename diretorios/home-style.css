@@ -20,11 +20,11 @@ header h1{
     font-family: "Delicious Handrawn", sans-serif;
     font-weight: bold;
     font-style: italic;
-    color: #ffffffe1;
+    color: #FEEFD8;
 }
 header img{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 main{
     width: 100%;
