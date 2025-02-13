@@ -15,6 +15,7 @@ header{
     align-items: center;
     justify-content: center;
     background-color: #c57922;
+    height: 100px;
 }
 header h1{
     font-family: "Delicious Handrawn", sans-serif;
